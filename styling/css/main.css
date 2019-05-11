@@ -1,0 +1,41 @@
+#main-header{
+    width: 100%;
+    height: 100%;
+}
+img{
+    width: inherit;
+    height: inherit;
+}
+
+#heading-ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+#name{
+    font-variant: small-caps;
+}
+
+#fa-icons a{
+    color: #ccc;
+}
+#fa-icons a:hover{
+    color: #777;
+}
+
+#currentLvl{
+    background-color: #111;
+    color: #ccc;
+    padding: 1em;
+}
+
+.port-item{
+    width: 100%;
+}
+.port-item:hover{
+    opacity: 0.85;
+    cursor: pointer;
+}
+.portf-icons .fa{
+    font-size: 1.4em;
+}

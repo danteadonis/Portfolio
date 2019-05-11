@@ -1,0 +1,31 @@
+/* @media(min-width: 1199px){
+    .port-item{
+        padding: 3em !important;
+    }
+} */
+
+/* social icons sizing */
+@media(max-width:480px){
+    .name-icons .fa{
+        font-size: 17px;
+        padding-right: 20px;
+    }
+}
+
+@media(min-width:480px){
+    .name-icons .fa{
+        font-size:20px;
+        padding-right: 20px;
+    }
+}
+
+@media(min-width:1199px){
+    .name-icons .fa{
+        font-size: 25px;
+        padding-right: 22px;
+    }
+
+    #heading-ul{
+        display: inline-block;
+    }
+}
