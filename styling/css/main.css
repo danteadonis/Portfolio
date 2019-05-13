@@ -13,6 +13,7 @@ img{
 }
 
 #name{
+    width: 100%;
     font-variant: small-caps;
 }
 
