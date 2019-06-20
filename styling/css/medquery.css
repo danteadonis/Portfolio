@@ -10,6 +10,10 @@
         font-size: 17px;
         padding-right: 20px;
     }
+
+    #pic{
+        border-radius: 10% 10% 0 0;
+    }
 }
 
 @media(min-width:480px){

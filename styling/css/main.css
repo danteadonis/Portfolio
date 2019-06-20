@@ -40,3 +40,8 @@ img{
 .portf-icons .fa{
     font-size: 1.4em;
 }
+
+/* resized the fa icons and made them a little bigger so they'd be more legible. */
+i#contactIcon{
+    font-size: 22px;
+}
